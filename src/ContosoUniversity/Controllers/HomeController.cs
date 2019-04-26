@@ -4,10 +4,10 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using ContosoUniversity.Models;
+using ContosoUniversityData.Models;
 using Microsoft.EntityFrameworkCore;
-using ContosoUniversity.Data;
-using ContosoUniversity.Models.SchoolViewModels;
+using ContosoUniversityData.Data;
+using ContosoUniversityData.Models.SchoolViewModels;
 using System.Data.Common;
 
 namespace ContosoUniversity.Controllers
